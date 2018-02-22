@@ -1,2 +1,2 @@
-# evermight
-Assignment from Evermight
+# StudyBeacon
+School based, study group app
